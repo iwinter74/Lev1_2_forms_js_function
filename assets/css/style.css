@@ -1,0 +1,7 @@
+label, input {
+    display: block;
+    margin-bottom: 0.5em
+}
+label{
+    font-size: 1.5em;
+}
